@@ -115,7 +115,7 @@ Displays the total CPU time, in microseconds, used by statements.
 <tr>
 <td valign="top">
 
-TOTAL\_STATEMENT\_ADMIN\_COUNT
+TOTAL\_STATEMENT\_ADMIT\_COUNT
 
 </td>
 <td valign="top">
